@@ -1,0 +1,22 @@
+{
+  "stories": [
+    {
+      "id": 1,
+      "context": "Vikram, the wise king, enters the haunted forest and meets Vetal, who hangs from an ancient tree. To proceed, Vikram must answer Vetal's first riddle.",
+      "narration": "The forest is dark and eerie. Vikram sees a figure hanging upside down...Vikram puts the figure on his shoulders and start walking. Suddenly the figure sprouts to life...",
+      "riddle": "A king has three daughters. Each one is twice as old as the next younger. If the youngest is 5, how old is the eldest?",
+      "answer": "20",
+      "role": "mathematician",
+      "story_images": ["forest_start_1.jpg", "forest_start_2.jpg"]
+    },
+    {
+      "id": 2,
+      "context": "Impressed by the answer, Vetal presents a science question as Vikram ventures deeper.",
+      "narration": "As Vikram continues his journey, he encounters a blazing fire...",
+      "riddle": "I am not alive, but I grow. I don’t have lungs, but I need air. What am I?",
+      "answer": "fire",
+      "role": "science teacher",
+      "story_images": ["fire_riddle_1.png", "fire_riddle_2.png"]
+    }
+  ]
+}
